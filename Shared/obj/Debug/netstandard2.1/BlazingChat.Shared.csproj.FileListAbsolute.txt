@@ -7,3 +7,4 @@ D:\Git\BlazingChat\Shared\obj\Debug\netstandard2.1\BlazingChat.Shared.AssemblyIn
 D:\Git\BlazingChat\Shared\obj\Debug\netstandard2.1\BlazingChat.Shared.csproj.CoreCompileInputs.cache
 D:\Git\BlazingChat\Shared\obj\Debug\netstandard2.1\BlazingChat.Shared.dll
 D:\Git\BlazingChat\Shared\obj\Debug\netstandard2.1\BlazingChat.Shared.pdb
+D:\Git\BlazingChat\Shared\obj\Debug\netstandard2.1\BlazingChat.Shared.GeneratedMSBuildEditorConfig.editorconfig

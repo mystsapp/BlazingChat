@@ -91,13 +91,21 @@ using BlazingChat.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 38 "D:\Git\BlazingChat\Client\Pages\Contacts.razor"
+#line 14 "D:\Git\BlazingChat\Client\Pages\Contacts.razor"
        
     private WeatherForecast[] forecasts;
+    private List<Shared.Contact> ContactList { get; set; } = new List<Contact>();
 
     protected override async Task OnInitializedAsync()
     {
+        
         forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("WeatherForecast");
+
+        ContactList.Add(new Contact(1, "Julius", "Caesar"));
+        ContactList.Add(new Contact(2, "Daniel", "Tonini"));
+        ContactList.Add(new Contact(3, "Gary", "Thomas"));
+        ContactList.Add(new Contact(4, "Martin", "Sommer"));
+        ContactList.Add(new Contact(1, "Haward", "Snyder"));
     }
 
 

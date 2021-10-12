@@ -378,3 +378,4 @@ D:\Git\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\_Rl_MLje3_i7CR-282y
 D:\Git\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\eQEfl5H3J1podzF48TKw1xoUqKBO0rNV1nc6d0KO9z0=.hash
 D:\Git\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\GwQPRxUsoao-Xe3xiZzVj8v-unMTlwiMeq2Q_EWYCRI=.hash
 D:\Git\BlazingChat\Client\obj\Debug\netstandard2.1\integrity\RV_F6UlD80E7HL8uqzVEqeQiGE_m7cvpLvxtA7GuvJU=.hash
+D:\Git\BlazingChat\Client\obj\Debug\netstandard2.1\BlazingChat.Client.GeneratedMSBuildEditorConfig.editorconfig
